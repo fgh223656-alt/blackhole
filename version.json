@@ -1,5 +1,6 @@
 {
-  "version": "v2.0.1",
+  "version": "v2.0.2",
   "notes": "Pembaruan sistem, optimasi UI, dan perbaikan stabilitas.",
-  "apk_url": "LINK_APK_RELEASE"
+  "apk_url": "https://github.com/fgh223656-alt/blackhole/releases/download/v2.0.2/app_release.apk",
+  "sha256": "2538d69e35a4c93b43106d41f83bd769bf319b5e2c93b7a493c347820dfdd9e"
 }
